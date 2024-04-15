@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mushahid</h1>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AdonisJs**
 
 - 📫 How to reach me **mmushahid724@gmail.com**
 
